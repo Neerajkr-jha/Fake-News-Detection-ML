@@ -43,3 +43,13 @@ Fake-News-Detection-ML/
 ├── requirements.txt
 ├── README.md
 └── .gitignore
+
+📊 Dataset
+
+The model is trained using the Fake and Real News Dataset available on Kaggle.
+
+Dataset Statistics:
+
+Fake News: 23,481 articles
+Real News: 21,417 articles
+Total Articles: 44,898+
