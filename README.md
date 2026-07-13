@@ -121,17 +121,31 @@ http://localhost:8501
 
 ### Home Screen
 
+<img width="1918" height="922" alt="image" src="https://github.com/user-attachments/assets/ab9dc83c-cc9d-4088-a7f6-30e450f2826e" />
+
 ```text
-<img width="1915" height="927" alt="image" src="https://github.com/user-attachments/assets/066d96d3-1ce2-43aa-8441-6603da0cbf9e" />
+screenshots/home.png
 
 ```
 
 ### Prediction Result
 
-> Add your prediction output screenshot here.
+Fake News
+
+<img width="1918" height="1025" alt="image" src="https://github.com/user-attachments/assets/f601599c-970d-4efc-b58c-a3ffba44e6bc" />
+
 
 ```text
-screenshots/result.png
+screenshots/fake.png
+```
+Real news 
+
+<img width="1918" height="978" alt="image" src="https://github.com/user-attachments/assets/cfb549d4-e11e-4022-b905-22eb9f809cf5" />
+
+
+
+```text
+screenshots/real.png
 ```
 
 ---
