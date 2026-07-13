@@ -121,18 +121,21 @@ http://localhost:8501
 
 ### Home Screen
 
-<img width="1918" height="922" alt="image" src="https://github.com/user-attachments/assets/ab9dc83c-cc9d-4088-a7f6-30e450f2826e" />
+<img width="1918" height="1025" alt="image" src="https://github.com/user-attachments/assets/decb67a7-e047-42a9-aeac-2a62a050da43" />
+
 
 
 ### Prediction Result
 
 # Fake News
 
-<img width="1918" height="1025" alt="image" src="https://github.com/user-attachments/assets/f601599c-970d-4efc-b58c-a3ffba44e6bc" />
+<img width="1918" height="1020" alt="image" src="https://github.com/user-attachments/assets/1db18f59-2e55-4556-ac1e-f73171687015" />
+
 
 # Real news 
 
-<img width="1918" height="978" alt="image" src="https://github.com/user-attachments/assets/cfb549d4-e11e-4022-b905-22eb9f809cf5" />
+<img width="1918" height="1026" alt="image" src="https://github.com/user-attachments/assets/dfbcbb9e-e354-4412-922a-ec8358e74d26" />
+
 
 
 ---
