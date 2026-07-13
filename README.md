@@ -126,11 +126,11 @@ http://localhost:8501
 
 ### Prediction Result
 
-#Fake News
+# Fake News
 
 <img width="1918" height="1025" alt="image" src="https://github.com/user-attachments/assets/f601599c-970d-4efc-b58c-a3ffba44e6bc" />
 
-#Real news 
+# Real news 
 
 <img width="1918" height="978" alt="image" src="https://github.com/user-attachments/assets/cfb549d4-e11e-4022-b905-22eb9f809cf5" />
 
